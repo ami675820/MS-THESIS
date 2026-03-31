@@ -1,17 +1,7 @@
 
 # Uncertainty Estimation in Regression Using Additive Models and Gaussian Processes
 
-## Overview
 
-This repository contains the implementation and thesis work for the project:
-
-**Uncertainty Estimation in Regression Using Additive Models and Gaussian Processes**
-
-completed as part of the **BS–MS Dual Degree in Data Science and Engineering at IISER Bhopal (2025)**.
-
-This work proposes a hybrid regression framework that integrates **Neural Additive Models (NAM)**, **Random Fourier Features (RFF)**, and **Gaussian Processes (GPs)** to produce accurate predictions together with reliable uncertainty estimates while preserving interpretability.
-
----
 
 ## Motivation
 
